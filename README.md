@@ -2,7 +2,7 @@
 
 My name is oc-2. I like technology; web-related development.
 
-I use python, node.js, typescript, some go, React, Angular, Vue and many more technologies to build fully-featured full-stack applications.
+I use java, python, node.js, typescript, some go, React, Angular, Vue, HTML, ruby and many more technologies to build fully-featured full-stack applications.
 
 Feel free to contact me :)
 
